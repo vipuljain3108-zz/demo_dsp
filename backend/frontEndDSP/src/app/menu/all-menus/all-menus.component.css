@@ -1,0 +1,6 @@
+
+th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
+    padding: 50px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
